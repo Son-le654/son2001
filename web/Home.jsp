@@ -24,6 +24,7 @@
                 <h1 class="jumbotron-heading"><img src="image/MainLogo.png" alt="Main Logo" width="60%"/></h1>
                 <p class="lead text-muted mb-0">Điện thoại, Tablet, Laptop, Phụ kiện chính hãng giá tốt...</p>
                 <p>lorem alalalaalalaalalal</p>
+                <p>asdhflashf</p>
             </div>
         </section>
             <div class="container">
