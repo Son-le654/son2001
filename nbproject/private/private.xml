@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/ManagerControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/ProductInManager.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/LogoutControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/Filter/SellerFilter.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/Filter/CustomerFilter.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/DAL/BaseDAO.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/AccountManagerControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/ShowCart.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Footer.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/css/detail.css</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Login.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/EditAccount.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/Filter/NotLoginFilter.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/DAL/InforDAO.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/BuyNowControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/Ship.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/AccountManager.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/LoginControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Buy.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Edit.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/SearchByAjax.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/map.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/css/style.css</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/Account.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/DeleteControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/DAL/CategoryDAO.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/Information.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/ShowCartControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Detail.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/BuyControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Right.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/DAL/CartDAO.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/AddToCartControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/SearchInManagerControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Menu.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/DashBoardProduct.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/DAL/UserDAO.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Left.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/Home.jsp</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/SignupControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/entity/Cart.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/web/css/login.css</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/control/SearchControl.java</file>
+            <file>file:/D:/JavaWEB/BanHoaQua/src/java/Filter/LoginFilter.java</file>
+        </group>
+    </open-files>
+</project-private>
